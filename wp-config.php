@@ -19,13 +19,13 @@
 define('DB_NAME', 'asiancollege');
 
 /** MySQL database username */
-define('DB_USER', 'adminrh4GhGC');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'jcRUVG3hyyXr');
+define('DB_PASSWORD', 'pass');
 
 /** MySQL hostname */
-define('DB_HOST', '127.7.88.130:3306');
+define('DB_HOST', 'localhost');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
