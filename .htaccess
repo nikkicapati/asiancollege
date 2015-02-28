@@ -6,3 +6,7 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /asiancollege.edu.ph/index.php [L]
 </IfModule>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 50ecc10c3a7c9acf3f2ca6f1713c9f5acc841425
