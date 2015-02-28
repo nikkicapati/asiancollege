@@ -19,10 +19,10 @@
 define('DB_NAME', 'asiancollege');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'adminxpZJ7Rl');
 
 /** MySQL database password */
-define('DB_PASSWORD', '123pass');
+define('DB_PASSWORD', 'ArXZnjnKftzA');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
